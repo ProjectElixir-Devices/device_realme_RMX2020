@@ -111,12 +111,6 @@
         <fqname>@1.1::IUsb/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>android.hardware.wifi</name>
-        <transport>hwbinder</transport>
-        <fqname>@1.3::IWifi/default</fqname>
-        <fqname>@1.0::IWifi/default</fqname>
-    </hal>
-    <hal format="hidl">
         <name>android.hardware.wifi.hostapd</name>
         <transport>hwbinder</transport>
         <fqname>@1.1::IHostapd/default</fqname>
