@@ -1,2 +1,6 @@
 # Privapp permissions whitelisting
 ro.control_privapp_permissions=log
+
+# Project-Elixir stuff
+ro.elixir.maintainer=Koushik Dey
+org.elixir.device=Realme Monet
