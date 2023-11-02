@@ -3,6 +3,10 @@ audio.tuning.def_path                   u:object_r:system_audio_tuning_prop:s0
 sys.oppo.mm.                            u:object_r:system_oplus_audio_prop:s0
 
 # Camera
+demo.hole                               u:object_r:exported_system_prop:s0
+demo.near                               u:object_r:exported_system_prop:s0
+demo.far                                u:object_r:exported_system_prop:s0
+demo.fb                                 u:object_r:exported_system_prop:s0
 dump.bpci_tbl.                          u:object_r:system_oplus_camera_prop:s0
 oppo.camera.                            u:object_r:system_oplus_camera_prop:s0
 
@@ -10,6 +14,9 @@ oppo.camera.                            u:object_r:system_oplus_camera_prop:s0
 oppo.optical.                           u:object_r:system_oplus_fingerprint_prop:s0
 oppo.fingerprint.                       u:object_r:system_oplus_fingerprint_prop:s0
 persist.sys.fp.vendor                   u:object_r:system_oplus_fingerprint_prop:s0
+
+# OPLUS
+ro.separate.soft                        u:object_r:system_oplus_prop:s0
 
 # Sensors
 sys.oppo.hasPhysicalGyroscope           u:object_r:system_oplus_sensor_prop:s0
