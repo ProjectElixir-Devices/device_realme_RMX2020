@@ -1,0 +1,6 @@
+device/realme/
+vendor/realme/
+kernel/realme/
+hardware/
+device/mediatek/
+prebuilts/clang/host/linux-x86/
