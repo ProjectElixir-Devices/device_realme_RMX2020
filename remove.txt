@@ -1,5 +1,6 @@
 device/realme
 vendor/realme
 kernel/realme
+hardware/mediatek
 hardware/oplus
 device/mediatek/sepolicy_vndr

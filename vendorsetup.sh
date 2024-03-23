@@ -18,6 +18,9 @@ echo 'Cloning Hardware Parts [3/4]'
 rm -rf hardware/oplus
 git clone https://github.com/LineageOS/android_hardware_oplus.git -b lineage-21 hardware/oplus
 
+rm -rf hardware/mediatek
+git clone https://github.com/LineageOS/android_hardware_mediatek.git -b lineage-21 hardware/mediatek
+
 echo 'Cloning Mediatek Sepolicy_Vndr [4/4]'
 # Mediatek Sepolicy_vndr
 rm -rf device/mediatek/sepolicy_vndr
